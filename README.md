@@ -1,3 +1,7 @@
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
+[![Code style: ruff](https://img.shields.io/badge/code%20style-ruff-000000)](https://github.com/astral-sh/ruff)
+[![Last commit](https://img.shields.io/github/last-commit/harindermashiana/reproduce_group_normalization)](https://github.com/harindermashiana/reproduce_group_normalization/commits/main)
+
 # Reproduce Group Normalization — Final Project
 Reproduced and evaluated Group Normalization (GN) vs Batch/Layer/Instance Normalization on Tiny ImageNet-200 using a custom TensorFlow model and experimental pipeline. You can find additional details/results/experiments in the PDF present in this repo.
 
